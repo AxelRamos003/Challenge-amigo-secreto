@@ -13,9 +13,9 @@ Sorteo Aleatorio: Al hacer clic en el botón "Sortear amigo", se selecciona un n
 
 Tecnologías Utilizadas
 
-HTML5: Para la estructura de la página.
+HTML: Para la estructura de la página.
 
-CSS3: Para el diseño y estilo visual.
+CSS: Para el diseño y estilo visual.
 
 JavaScript: Para la lógica de programación y la interactividad.
 
